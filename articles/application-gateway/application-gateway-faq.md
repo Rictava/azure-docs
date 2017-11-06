@@ -126,7 +126,7 @@ Yes, as long as traffic is allowed.
 
 Micro service architecture is supported. You would need multiple http settings configured to probe on different ports.
 
-**Q. Do custom probes support wildcards/regex on response data?**
+-**Q. Do custom probes support wildcards/regex on response data?**
 
 Custom probes do not support wildcard or regex on response data. 
 
